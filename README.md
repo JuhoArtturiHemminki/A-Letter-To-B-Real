@@ -1,12 +1,12 @@
 # Documentation: alettertobreal.md
-## System Architecture & Mathematical Proof of Project CleanSky
+## System Architecture & Mathematical Proof of NewSat ASIC
 ### Author: Juho Artturi Hemminki
 
 ---
 
 ## 1. Algebraic Field Extension and \(\mathbb{Q}(\sqrt{5})\) Tensor Projection
 
-Traditional communication theory treats the signal and noise within a linear Euclidean space \(\mathbb{R}\). Project CleanSky departs from this by isolating the payload into the algebraic field extension \(\mathbb{Q}(\sqrt{5})\).
+Traditional communication theory treats the signal and noise within a linear Euclidean space \(\mathbb{R}\). NewSat ASIC departs from this by isolating the payload into the algebraic field extension \(\mathbb{Q}(\sqrt{5})\).
 
 Let us define the Golden Ratio \(\phi\):
 $$\phi = \frac{1 + \sqrt{5}}{2} \approx 1.6180339887$$
